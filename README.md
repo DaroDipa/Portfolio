@@ -17,6 +17,8 @@ Crear un proyecto ágil en Jira, configurar y administre un tablero Kanban
 Introducción a las Pruebas de Sistemas de Información - Federico Toledo
 
 ## Mi trabajo
-  * [Casos de Prueba]
-  * [Gestión de incidentes]
-  * [Informe de pruebas]
+  * [[E-Commerce de capacitación] (https://japceibal.github.io/e-mercado-TESTING/index.html)
+  * [Casos de Prueba] (https://docs.google.com/spreadsheets/d/1Qy1xJai_d4CJaOdAv1rnD5GFWXGEv7qm/edit#gid=1732080225)
+  * [Gestión de incidentes] (https://docs.google.com/spreadsheets/d/1ibmVmWVRBJdsz-nY8--jej8h0d35sNPE/edit#gid=701818181)
+  * [ESRE] (https://drive.google.com/file/d/1puvjbFexo-juUvQdfWAa2UMCXb7KoMom/view?usp=sharing)
+  * [Informe de pruebas] (https://drive.google.com/file/d/1KFMIFJzp76Y1JWVEpKOM-3TuzY8iy7By/view?usp=sharing)
